@@ -1,4 +1,4 @@
-# Docker in Docker image with python and docker-compose
+## Docker in Docker image with python and docker-compose
 
 A Docker in Docker image built with `python`, `pip`, `docker` and `docker-compose` commands. Based on the official docker:dind (https://hub.docker.com/_/docker/) image.
 
